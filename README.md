@@ -15,11 +15,8 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/samrat-sarkar/sql-injection-testing-portal.git
 cd sqli-testing-portal
-```bash
-
-#### Import the SQL File
-
 ```markdown
+
 ### Import the SQL File
 
 To set up the database, you need to import the `sqli.sql` file into your MySQL server.
