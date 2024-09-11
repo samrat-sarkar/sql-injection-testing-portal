@@ -3,6 +3,9 @@
 ## Description
 The SQL Injection Testing Portal is a PHP-based application designed to help users practice SQL injection techniques on a local server. This tool demonstrates a SQL injection vulnerability for educational purposes. Use it to test your SQL injection skills and understand how to exploit such vulnerabilities in a controlled environment.
 
+![alt text](https://samrat-sarkar.github.io/sql-injection-testing-portal/screenshots/1.png)
+![alt text](https://samrat-sarkar.github.io/sql-injection-testing-portal/screenshots/2.png)
+
 ## Setup
 
 ### Prerequisites
