@@ -58,9 +58,6 @@ This tool is intended for educational purposes only. Always practice SQL injecti
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👤 Author
 - **Samrat Sarkar**
   - LinkedIn: [samratsarkar9999](https://www.linkedin.com/in/samratsarkar9999/)
